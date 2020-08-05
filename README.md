@@ -7,5 +7,5 @@ By using this script on server B and placing a file on server A, you can balance
 
 ## Setup on ubuntu
 
-     sudo wget https://raw.githubusercontent.com/IEfiwm/Simple-traffic-balancer/master/start.sh && sudo chmod 777 download.sh && sudo bash download.sh
+     sudo wget https://raw.githubusercontent.com/IEfiwm/Simple-traffic-balancer/master/start.sh && sudo chmod 777 start.sh && sudo bash start.sh
 and then script ask you "How many times you want download this file ?!" and then ask "Give me url file:" You should enter url of file then script ask about filename for delete file automaticly after download.
